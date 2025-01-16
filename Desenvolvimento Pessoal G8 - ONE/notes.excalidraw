@@ -475,6 +475,43 @@
       "lineHeight": 1.35
     },
     {
+      "id": "2gdc2aQQc8_YYsPjpu5JK",
+      "type": "text",
+      "x": 1402.889030937633,
+      "y": 4009.174742595633,
+      "width": 657.8,
+      "height": 255.3579780170175,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b07q",
+      "roundness": null,
+      "seed": 823355896,
+      "version": 2536,
+      "versionNonce": 1951133832,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1737047625473,
+      "link": null,
+      "locked": false,
+      "text": "mindset fixo\n        x\nmindset crescimento",
+      "fontSize": 68.095460804538,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "mindset fixo\n        x\nmindset crescimento",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
       "id": "AO90qn2KwxieWxCaMNP6W",
       "type": "text",
       "x": 2573.230039937633,
@@ -534,7 +571,7 @@
       "version": 2873,
       "versionNonce": 30121730,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1736969570624,
       "link": null,
       "locked": false,
@@ -1252,6 +1289,56 @@
         1
       ],
       "crop": null
+    },
+    {
+      "id": "MVgMJk0Y1j52eP77JLO6x",
+      "type": "arrow",
+      "x": 1121.3553025755655,
+      "y": 4372.747430425758,
+      "width": 250,
+      "height": 240,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0S",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1308460280,
+      "version": 94,
+      "versionNonce": 1965381000,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1737047433182,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          70,
+          -200
+        ],
+        [
+          250,
+          -240
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
